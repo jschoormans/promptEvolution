@@ -26,5 +26,5 @@ Starting image (sample from dataset) with an aesthetic score of 6.5:
 
 
 Best result (aesthetic score 10.175):
-![Best Result](assets/15_10.175.png)
+![Best Result](assets/15_10.175.jpg)
 
