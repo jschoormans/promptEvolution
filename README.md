@@ -19,12 +19,12 @@ Here's an example of the algorithm trying to evolve prompts to match a target im
 
 ### Target vs Best Result
 Fitness over generations:
-![Fitness Over Generations](assets/fitness_stats.png
+![Fitness Over Generations](assets/fitness_stats.png)
 
 Starting image (sample from dataset) with an aesthetic score of 6.5:
 ![Starting Image](assets/average_generation.png)
 
 
 Best result (aesthetic score 10.175):
-![Best Result](assets/12_10.175.png)
+![Best Result](assets/15_10.175.png)
 
